@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+openpyxl
+python-dotenv
+groq
+scikit-learn
+kmodes
+chromadb
+cohere
+phik
