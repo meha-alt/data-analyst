@@ -3,7 +3,7 @@
 From dataset storytelling to deep quality diagnostics
 AI-DATA-ANALYST is an intelligent data analysis assistant that transforms raw datasets into meaningful insights and stories. It goes beyond traditional EDA by combining statistical techniques, clustering, and AI-powered assistance to help users truly understand their data.
 
-#Features:
+# Features:
 
 1. Dataset Storytelling Engine
 
@@ -25,7 +25,7 @@ Suggest feature engineering ideas
 Guide feature selection 
 Explain statistical outputs in simple language
 
-#Use Cases
+# Use Cases
 
 Exploratory Data Analysis (EDA) automation
 Data preprocessing assistance
@@ -34,6 +34,6 @@ Data storytelling for reports & presentations
 
 Tech Stack: Streamlit(UI), pandas, kmodes(clustering), vector embeddings, chromadb(vector database), LLM, Deploment(render)
 
-#Vision
+# Vision
 
 To simplify data understanding by turning complex datasets into clear, human-readable stories powered by AI-driven analysis.
