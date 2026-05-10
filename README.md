@@ -28,7 +28,14 @@ Data preprocessing assistance
 Feature selection support
 Data storytelling for reports & presentations
 
-Tech Stack: Streamlit(UI), pandas, kmodes(clustering), vector embeddings, chromadb(vector database), LLM, Deploment(render)
+# Tech Stack: 
+- Streamlit(UI)
+- pandas
+- kmodes(clustering)
+- vector embeddings
+- chromadb(vector database)
+- LLM
+- Deploment(render)
 
 # Vision:
 
